@@ -1,0 +1,239 @@
+Tgl,Nama_Obat,Golongan,Pabrik,No_Batch,Dengan_Resep,Tgl_ED,Promo,Obat_Masuk,Obat_Keluar,Harga,Stok_Obat
+29/11/2019,MERTIGO,Obat Keras,Dexa,,Ya,,Tidak ada,-,10,56000,186
+30/11/2019,MERTIGO,Obat Keras,Dexa,,Ya,,Tidak ada,-,26,56000,160
+23/12/2019,MERTIGO,Obat Keras,Dexa,,Ya,,Tidak ada,-,65,56000,95
+01/01/2020,OMEPRAZOLE,Obat Bebas,Novel ,,Ya,,Tidak ada,-,10,5000,39
+02/01/2020,OMEPRAZOLE,Obat Bebas,Novel ,,Ya,,Tidak ada,90,10,5000,119
+02/01/2020,MERTIGO,Obat Keras,Dexa,,Ya,,Tidak ada,-,10,56000,85
+04/01/2020,MERTIGO,Obat Keras,Dexa,,Ya,,Tidak ada,100,-,56000,-
+07/01/2020,MERTIGO,Obat Keras,Dexa,,Ya,,Tidak ada,-,20,56000,105
+16/01/2020,BUSCOPAN,Obat Keras,Sanofi,,Ya,,Tidak ada,-,-,50000,21
+17/01/2020,MERTIGO,Obat Keras,Dexa,,Ya,,Tidak ada,-,5,56000,100
+18/01/2020,MERTIGO,Obat Keras,Dexa,,Ya,,Tidak ada,-,10,56000,90
+20/01/2020,MERTIGO,Obat Keras,Dexa,,Ya,,Tidak ada,-,20,56000,70
+24/01/2020,MERTIGO,Obat Keras,Dexa,,Ya,,Tidak ada,-,10,56000,60
+25/01/2020,BUSCOPAN,Obat Keras,Sanofi,,Ya,,Tidak ada,-,8,50000,16
+26/01/2020,MERTIGO,Obat Keras,Dexa,,Ya,,Tidak ada,-,10,56000,50
+05/02/2020,BUSCOPAN,Obat Keras,Sanofi,,Ya,,Tidak ada,-,16,50000,0
+06/02/2020,BUSCOPAN,Obat Keras,Sanofi,,Ya,,Tidak ada,-,-,50000,-
+09/02/2020,MERTIGO,Obat Keras,Dexa,,Ya,,Tidak ada,50,-,56000,100
+23/02/2020,MERTIGO,Obat Keras,Dexa,,Ya,,Tidak ada,-,10,56000,90
+25/02/2020,MERTIGO,Obat Keras,Dexa,,Ya,,Tidak ada,-,6,56000,84
+08/03/2020,MERTIGO,Obat Keras,Dexa,,Ya,,Tidak ada,-,39,56000,51
+09/03/2020,MERTIGO,Obat Keras,Dexa,,Ya,,Tidak ada,-,10,56000,41
+12/03/2020,MERTIGO,Obat Keras,Dexa,,Ya,,Tidak ada,200,29,56000,212
+20/03/2020,BUSCOPAN,Obat Keras,Sanofi,,Ya,,Tidak ada,-,-,50000,19
+21/03/2020,MERTIGO,Obat Keras,Dexa,,Ya,,Tidak ada,-,11,56000,201
+25/04/2020,BUSCOPAN,Obat Keras,Sanofi,,Ya,,Tidak ada,-,10,50000,9
+27/04/2020,AMBROXOL ,Obat Bebas,Phapros,,Tidak,,Tidak ada,-,20,5000,330
+27/04/2020,BUSCOPAN,Obat Keras,Sanofi,,Ya,,Tidak ada,-,9,50000,-
+03/06/2020,MERTIGO,Obat Keras,Dexa,,Ya,,Tidak ada,100,30,56000,271
+04/06/2020,AMBROXOL ,Obat Bebas,Phapros,,Tidak,,Tidak ada,-,40,5000,290
+06/06/2020,MERTIGO,Obat Keras,Dexa,,Ya,,Tidak ada,-,10,56000,261
+07/06/2020,AMBROXOL ,Obat Bebas,Phapros,,Tidak,,Tidak ada,-,30,5000,260
+12/06/2020,MERTIGO,Obat Keras,Dexa,,Ya,,Tidak ada,-,30,56000,231
+17/06/2020,MERTIGO,Obat Keras,Dexa,,Ya,,Tidak ada,-,20,56000,211
+10/07/2020,AMBROXOL ,Obat Bebas,Phapros,,Tidak,,Tidak ada,-,30,5000,230
+10/07/2020,KALNEX,Obat Bebas Terbatas,Kalbe,,Ya,"5,2023",Tidak ada,100,-,50000,100
+12/07/2020,MERTIGO,Obat Keras,Dexa,,Ya,,Tidak ada,-,30,56000,161
+17/07/2020,KALNEX,Obat Bebas Terbatas,Kalbe,,Ya,,Tidak ada,-,10,50000,100
+20/07/2020,MERTIGO,Obat Keras,Dexa,,Ya,,Tidak ada,-,10,56000,151
+21/07/2020,KALNEX,Obat Bebas Terbatas,Kalbe,,Ya,,Tidak ada,-,10,50000,80
+25/07/2020,KALNEX,Obat Bebas Terbatas,Kalbe,,Ya,,Tidak ada,-,9,50000,71
+28/07/2020,MERTIGO,Obat Keras,Dexa,,Ya,,Tidak ada,-,20,56000,191
+29/07/2020,MERTIGO,Obat Keras,Dexa,,Ya,,Tidak ada,-,10,56000,141
+31/07/2020,KALNEX,Obat Bebas Terbatas,Kalbe,,Ya,,Tidak ada,-,15,50000,56
+07/08/2020,KALNEX,Obat Bebas Terbatas,Kalbe,,Ya,,Tidak ada,-,6,50000,40
+12/08/2020,KALNEX,Obat Bebas Terbatas,Kalbe,,Ya,,Tidak ada,-,21,50000,16
+13/08/2020,MERTIGO,Obat Keras,Dexa,,Ya,,Tidak ada,-,22,56000,119
+13/08/2020,KALNEX,Obat Bebas Terbatas,Kalbe,,Ya,,Tidak ada,100,15,50000,101
+15/08/2020,AMBROXOL ,Obat Bebas,Phapros,,Tidak,,Tidak ada,-,100,5000,180
+18/08/2020,MERTIGO,Obat Keras,Dexa,,Ya,,Tidak ada,100,20,56000,99
+18/08/2020,KALNEX,Obat Bebas Terbatas,Kalbe,,Ya,,Tidak ada,-,10,50000,71
+20/08/2020,KALNEX,Obat Bebas Terbatas,Kalbe,,Ya,,Tidak ada,-,6,50000,85
+21/08/2020,KALNEX,Obat Bebas Terbatas,Kalbe,,Ya,,Tidak ada,-,10,50000,75
+06/09/2020,KALNEX,Obat Bebas Terbatas,Kalbe,,Ya,,Tidak ada,-,15,50000,60
+07/09/2020,KALNEX,Obat Bebas Terbatas,Kalbe,,Ya,,Tidak ada,100,30,50000,130
+12/09/2020,MERTIGO,Obat Keras,Dexa,,Ya,,Tidak ada,-,72,56000,271
+14/09/2020,MERTIGO,Obat Keras,Dexa,,Ya,,Tidak ada,-,10,56000,261
+17/09/2020,AMBROXOL ,Obat Bebas,Phapros,,Tidak,,Tidak ada,-,30,5000,150
+18/09/2020,KALNEX,Obat Bebas Terbatas,Kalbe,,Ya,,Tidak ada,-,25,50000,105
+20/09/2020,MERTIGO,Obat Keras,Dexa,,Ya,,Tidak ada,-,30,56000,231
+21/09/2020,MERTIGO,Obat Keras,Dexa,,Ya,,Tidak ada,1,-,56000,110
+22/09/2020,MERTIGO,Obat Keras,Dexa,,Ya,,Tidak ada,100,9,56000,20
+23/09/2020,KALNEX,Obat Bebas Terbatas,Kalbe,,Ya,,Tidak ada,-,25,50000,80
+28/09/2020,MERTIGO,Obat Keras,Dexa,,Ya,,Tidak ada,-,4,56000,197
+29/09/2020,KALNEX,Obat Bebas Terbatas,Kalbe,,Ya,,Tidak ada,-,20,50000,60
+30/09/2020,KALNEX,Obat Bebas Terbatas,Kalbe,,Ya,,Tidak ada,-,10,50000,50
+03/10/2020,MERTIGO,Obat Keras,Dexa,,Ya,,Tidak ada,-,11,56000,186
+05/10/2020,MEFINAL,Obat Keras,Sanbe,,Ya,,Tidak ada,-,-,20000,8
+10/10/2020,OMEPRAZOLE,Obat Bebas,Novel ,,Ya,,Tidak ada,46,17,5000,25
+11/10/2020,MERTIGO,Obat Keras,Dexa,,Ya,,Tidak ada,-,12,56000,174
+11/10/2020,MEFINAL,Obat Keras,Sanbe,,Ya,,Tidak ada,-,51,20000,-
+12/10/2020,MEFINAL,Obat Keras,Sanbe,,Ya,,Tidak ada,150,39,20000,-
+13/10/2020,KALNEX,Obat Bebas Terbatas,Kalbe,,Ya,,Tidak ada,-,10,50000,40
+19/10/2020,MERTIGO,Obat Keras,Dexa,,Ya,,Tidak ada,-,109,56000,65
+20/10/2020,MEFINAL,Obat Keras,Sanbe,,Ya,,Tidak ada,-,17,20000,73
+20/10/2020,AMBROXOL ,Obat Bebas,Phapros,,Tidak,,Tidak ada,-,25,5000,125
+21/10/2020,MEFINAL,Obat Keras,Sanbe,,Ya,,Tidak ada,-,10,20000,63
+24/10/2020,MERTIGO,Obat Keras,Dexa,,Ya,,Tidak ada,100,10,56000,155
+24/10/2020,MEFINAL,Obat Keras,Sanbe,,Ya,,Tidak ada,-,50,20000,13
+25/10/2020,MEFINAL,Obat Keras,Sanbe,,Ya,,Tidak ada,100,40,20000,73
+29/10/2020,MEFINAL,Obat Keras,Sanbe,,Ya,,Tidak ada,100,21,20000,152
+30/10/2020,MERTIGO,Obat Keras,Dexa,,Ya,,Tidak ada,-,10,56000,145
+31/10/2020,KALNEX,Obat Bebas Terbatas,Kalbe,,Ya,,Tidak ada,100,-,50000,140
+01/11/2020,KALNEX,Obat Bebas Terbatas,Kalbe,,Ya,,Tidak ada,100,20,50000,220
+03/11/2020,MEFINAL,Obat Keras,Sanbe,,Ya,,Tidak ada,-,69,20000,183
+04/11/2020,MERTIGO,Obat Keras,Dexa,,Ya,,Tidak ada,-,30,56000,115
+04/11/2020,MEFINAL,Obat Keras,Sanbe,,Ya,,Tidak ada,-,20,20000,163
+05/11/2020,KALNEX,Obat Bebas Terbatas,Kalbe,,Ya,,Tidak ada,-,10,50000,195
+06/11/2020,MERTIGO,Obat Keras,Dexa,,Ya,,Tidak ada,-,10,56000,105
+06/11/2020,MEFINAL,Obat Keras,Sanbe,,Ya,,Tidak ada,-,31,20000,132
+09/11/2020,MERTIGO,Obat Keras,Dexa,,Ya,,Tidak ada,-,10,56000,95
+09/11/2020,BUSCOPAN,Obat Keras,Sanofi,,Ya,"3,2003",Tidak ada,300,10,50000,250
+10/11/2020,MERTIGO,Obat Keras,Dexa,,Ya,,Tidak ada,5,5,56000,290
+10/11/2020,MEFINAL,Obat Keras,Sanbe,,Ya,,Tidak ada,-,30,20000,102
+12/11/2020,MEFINAL,Obat Keras,Sanbe,,Ya,,Tidak ada,-,15,20000,87
+13/11/2020,MERTIGO,Obat Keras,Dexa,,Ya,,Tidak ada,-,10,56000,280
+13/11/2020,MEFINAL,Obat Keras,Sanbe,,Ya,,Tidak ada,-,10,20000,77
+13/11/2020,KALNEX,Obat Bebas Terbatas,Kalbe,,Ya,,Tidak ada,-,15,50000,205
+14/11/2020,MEFINAL,Obat Keras,Sanbe,,Ya,,Tidak ada,-,20,20000,57
+14/11/2020,AMLODIPIN,Obat Keras,Lapi,,Ya,,Tidak ada,-,58,85000,259
+15/11/2020,MERTIGO,Obat Keras,Dexa,,Ya,,Tidak ada,-,120,56000,160
+16/11/2020,KALNEX,Obat Bebas Terbatas,Kalbe,,Ya,,Tidak ada,-,2,50000,193
+20/11/2020,MERTIGO,Obat Keras,Dexa,,Ya,,Tidak ada,-,10,56000,150
+20/11/2020,MEFINAL,Obat Keras,Sanbe,,Ya,,Tidak ada,100,11,20000,146
+22/11/2020,AMBROXOL ,Obat Bebas,Phapros,,Tidak,,Tidak ada,200,45,5000,80
+23/11/2020,MERTIGO,Obat Keras,Dexa,,Ya,,Tidak ada,-,10,56000,140
+23/11/2020,MEFINAL,Obat Keras,Sanbe,,Ya,,Tidak ada,-,20,20000,126
+23/11/2020,AMLODIPIN,Obat Keras,Lapi,,Ya,,Tidak ada,200,40,85000,418
+25/11/2020,MERTIGO,Obat Keras,Dexa,,Ya,,Tidak ada,-,10,56000,130
+26/11/2020,MEFINAL,Obat Keras,Sanbe,,Ya,,Tidak ada,-,30,20000,96
+27/11/2020,MERTIGO,Obat Keras,Dexa,,Ya,,Tidak ada,-,10,56000,120
+27/11/2020,AMLODIPIN,Obat Keras,Lapi,,Ya,,Tidak ada,100,60,85000,359
+30/11/2020,MEFINAL,Obat Keras,Sanbe,,Ya,,Tidak ada,-,40,20000,56
+30/11/2020,AMLODIPIN,Obat Keras,Lapi,,Ya,,Tidak ada,-,10,85000,449
+01/12/2020,MEFINAL,Obat Keras,Sanbe,,Ya,,Tidak ada,-,10,20000,46
+02/12/2020,MEFINAL,Obat Keras,Sanbe,,Ya,,Tidak ada,100,10,20000,136
+04/12/2020,BUSCOPAN,Obat Keras,Sanofi,,Ya,,Tidak ada,-,-,50000,190
+04/12/2020,KALNEX,Obat Bebas Terbatas,Kalbe,,Ya,,Tidak ada,-,10,50000,183
+05/12/2020,MEFINAL,Obat Keras,Sanbe,,Ya,,Tidak ada,-,10,20000,126
+06/12/2020,AMLODIPIN,Obat Keras,Lapi,,Ya,,Tidak ada,-,45,85000,404
+06/12/2020,KALNEX,Obat Bebas Terbatas,Kalbe,,Ya,,Tidak ada,-,30,50000,153
+07/12/2020,AMLODIPIN,Obat Keras,Lapi,,Ya,,Tidak ada,-,30,85000,374
+07/12/2020,AMBROXOL ,Obat Bebas,Phapros,,Tidak,,Tidak ada,-,90,5000,240
+09/12/2020,MEFINAL,Obat Keras,Sanbe,,Ya,,Tidak ada,-,40,20000,86
+10/12/2020,MEFINAL,Obat Keras,Sanbe,,Ya,,Tidak ada,-,10,20000,76
+11/12/2020,MERTIGO,Obat Keras,Dexa,,Ya,,Tidak ada,-,10,56000,110
+13/12/2020,OMEPRAZOLE,Obat Bebas,Novel ,,Ya,,Tidak ada,60,-,5000,65
+14/12/2020,MEFINAL,Obat Keras,Sanbe,,Ya,,Tidak ada,-,30,20000,46
+14/12/2020,AMLODIPIN,Obat Keras,Lapi,,Ya,,Tidak ada,-,70,85000,304
+15/12/2020,MEFINAL,Obat Keras,Sanbe,,Ya,,Tidak ada,-,24,20000,122
+16/12/2020,OMEPRAZOLE,Obat Bebas,Novel ,,Ya,,Tidak ada,30,40,5000,55
+18/12/2020,AMLODIPIN,Obat Keras,Lapi,,Ya,,Tidak ada,-,93,85000,211
+19/12/2020,MERTIGO,Obat Keras,Dexa,,Ya,,Tidak ada,-,50,56000,60
+19/12/2020,KALNEX,Obat Bebas Terbatas,Kalbe,,Ya,,Tidak ada,-,15,50000,138
+21/12/2020,AMLODIPIN,Obat Keras,Lapi,,Ya,,Tidak ada,-,26,85000,185
+23/12/2020,OMEPRAZOLE,Obat Bebas,Novel ,,Ya,,Tidak ada,-,46,5000,9
+23/12/2020,BUSCOPAN,Obat Keras,Sanofi,,Ya,,Tidak ada,100,20,50000,170
+24/12/2020,OMEPRAZOLE,Obat Bebas,Novel ,,Ya,,Tidak ada,60,10,5000,59
+26/12/2020,AMLODIPIN,Obat Keras,Lapi,,Ya,,Tidak ada,-,24,85000,161
+27/12/2020,MEFINAL,Obat Keras,Sanbe,,Ya,,Tidak ada,-,37,20000,85
+27/12/2020,KALNEX,Obat Bebas Terbatas,Kalbe,,Ya,,Tidak ada,-,15,50000,123
+28/12/2020,OMEPRAZOLE,Obat Bebas,Novel ,,Ya,,Tidak ada,6,10,5000,49
+28/12/2020,AMLODIPIN,Obat Keras,Lapi,,Ya,,Tidak ada,-,40,85000,121
+28/12/2020,KALNEX,Obat Bebas Terbatas,Kalbe,,Ya,,Tidak ada,-,10,50000,113
+29/12/2020,OMEPRAZOLE,Obat Bebas,Novel ,,Ya,,Tidak ada,60,42,5000,67
+29/12/2020,MERTIGO,Obat Keras,Dexa,,Ya,,Tidak ada,-,10,56000,50
+29/12/2020,KALNEX,Obat Bebas Terbatas,Kalbe,,Ya,,Tidak ada,-,-,50000,97
+30/12/2020,MERTIGO,Obat Keras,Dexa,,Ya,,Tidak ada,100,10,56000,40
+30/12/2020,MEFINAL,Obat Keras,Sanbe,,Ya,,Tidak ada,-,43,20000,42
+31/12/2020,OMEPRAZOLE,Obat Bebas,Novel ,,Ya,,Tidak ada,-,18,5000,49
+31/12/2020,LAPIBAL,Obat Keras,Lapi,,Ya,,Tidak ada,-,-,35000,297
+31/12/2020,MEFINAL,Obat Keras,Sanbe,,Ya,,Tidak ada,-,10,20000,132
+01/01/2021,AMBROXOL ,Obat Bebas,Phapros,,Tidak,,Tidak ada,-,20,5000,220
+04/01/2021,OMEPRAZOLE,Obat Bebas,Novel ,,Ya,,Tidak ada,-,16,5000,103
+04/01/2021,MERTIGO,Obat Keras,Dexa,,Ya,,Tidak ada,-,80,56000,60
+04/01/2021,MEFINAL,Obat Keras,Sanbe,,Ya,,Tidak ada,-,1,20000,131
+04/01/2021,BUSCOPAN,Obat Keras,Sanofi,,Ya,,Tidak ada,-,60,50000,210
+05/01/2021,LAPIBAL,Obat Keras,Lapi,,Ya,,Tidak ada,-,20,35000,277
+05/01/2021,MERTIGO,Obat Keras,Dexa,,Ya,,Tidak ada,-,10,56000,50
+05/01/2021,MEFINAL,Obat Keras,Sanbe,,Ya,,Tidak ada,-,30,20000,101
+05/01/2021,AMLODIPIN,Obat Keras,Lapi,,Ya,,Tidak ada,110,-,85000,231
+07/01/2021,OMEPRAZOLE,Obat Bebas,Novel ,,Ya,,Tidak ada,,84,5000,19
+07/01/2021,MEFINAL,Obat Keras,Sanbe,,Ya,,Tidak ada,-,20,20000,81
+07/01/2021,AMLODIPIN,Obat Keras,Lapi,,Ya,,Tidak ada,-,10,85000,221
+07/01/2021,AMBROXOL ,Obat Bebas,Phapros,,Tidak,,Tidak ada,100,60,5000,266
+08/01/2021,OMEPRAZOLE,Obat Bebas,Novel ,,Ya,,Tidak ada,60,-,5000,29
+08/01/2021,MERTIGO,Obat Keras,Dexa,,Ya,,Tidak ada,-,20,56000,30
+08/01/2021,KALNEX,Obat Bebas Terbatas,Kalbe,,Ya,,Tidak ada,-,11,50000,86
+09/01/2021,OMEPRAZOLE,Obat Bebas,Novel ,,Ya,,Tidak ada,-,10,5000,69
+11/01/2021,LAPIBAL,Obat Keras,Lapi,,Ya,,Tidak ada,-,30,35000,247
+12/01/2021,MEFINAL,Obat Keras,Sanbe,,Ya,,Tidak ada,-,71,20000,61
+12/01/2021,KALNEX,Obat Bebas Terbatas,Kalbe,,Ya,,Tidak ada,-,15,50000,71
+14/01/2021,OMEPRAZOLE,Obat Bebas,Novel ,,Ya,,Tidak ada,-,36,5000,33
+15/01/2021,OMEPRAZOLE,Obat Bebas,Novel ,,Ya,,Tidak ada,-,-,5000,53
+15/01/2021,LAPIBAL,Obat Keras,Lapi,,Ya,,Tidak ada,-,20,35000,227
+16/01/2021,AMBROXOL ,Obat Bebas,Phapros,,Tidak,,Tidak ada,-,26,5000,246
+18/01/2021,OMEPRAZOLE,Obat Bebas,Novel ,,Ya,,Tidak ada,-,10,5000,43
+18/01/2021,MEFINAL,Obat Keras,Sanbe,,Ya,,Tidak ada,-,10,20000,91
+18/01/2021,AMLODIPIN,Obat Keras,Lapi,,Ya,,Tidak ada,-,60,85000,161
+18/01/2021,KALNEX,Obat Bebas Terbatas,Kalbe,,Ya,,Tidak ada,-,30,50000,41
+19/01/2021,OMEPRAZOLE,Obat Bebas,Novel ,,Ya,,Tidak ada,-,10,5000,33
+19/01/2021,LAPIBAL,Obat Keras,Lapi,,Ya,,Tidak ada,-,41,35000,186
+19/01/2021,MEFINAL,Obat Keras,Sanbe,,Ya,,Tidak ada,-,10,20000,81
+19/01/2021,KALNEX,Obat Bebas Terbatas,Kalbe,,Ya,,Tidak ada,-,10,50000,31
+21/01/2021,OMEPRAZOLE,Obat Bebas,Novel ,,Ya,,Tidak ada,-,15,5000,18
+21/01/2021,MEFINAL,Obat Keras,Sanbe,,Ya,,Tidak ada,-,30,20000,51
+23/01/2021,BUSCOPAN,Obat Keras,Sanofi,,Ya,,Tidak ada,-,30,50000,180
+24/01/2021,AMLODIPIN,Obat Keras,Lapi,,Ya,,Tidak ada,-,20,85000,111
+25/01/2021,OMEPRAZOLE,Obat Bebas,Novel ,,Ya,,Tidak ada,-,10,5000,8
+25/01/2021,MEFINAL,Obat Keras,Sanbe,,Ya,,Tidak ada,-,30,20000,21
+26/01/2021,MEFINAL,Obat Keras,Sanbe,,Ya,,Tidak ada,-,140,20000,81
+27/01/2021,LAPIBAL,Obat Keras,Lapi,,Ya,,Tidak ada,200,19,35000,367
+27/01/2021,AMLODIPIN,Obat Keras,Lapi,,Ya,,Tidak ada,-,35,85000,106
+28/01/2021,LAPIBAL,Obat Keras,Lapi,,Ya,,Tidak ada,-,10,35000,357
+28/01/2021,MEFINAL,Obat Keras,Sanbe,,Ya,,Tidak ada,-,80,20000,61
+29/01/2021,AMBROXOL ,Obat Bebas,Phapros,,Tidak,,Tidak ada,-,66,5000,180
+29/01/2021,KALNEX,Obat Bebas Terbatas,Kalbe,,Ya,,Tidak ada,-,11,50000,20
+31/01/2021,MEFINAL,Obat Keras,Sanbe,,Ya,,Tidak ada,-,30,20000,31
+31/01/2021,AMLODIPIN,Obat Keras,Lapi,,Ya,,Tidak ada,-,70,85000,36
+02/02/2021,AMBROXOL ,Obat Bebas,Phapros,,Tidak,,Tidak ada,-,20,5000,160
+03/02/2021,MEFINAL,Obat Keras,Sanbe,,Ya,,Tidak ada,100,20,20000,111
+04/02/2021,OMEPRAZOLE,Obat Bebas,Novel ,,Ya,,Tidak ada,60,-,5000,60
+04/02/2021,MEFINAL,Obat Keras,Sanbe,,Ya,,Tidak ada,-,-,20000,110
+05/02/2021,OMEPRAZOLE,Obat Bebas,Novel ,,Ya,,Tidak ada,60,70,5000,80
+05/02/2021,MEFINAL,Obat Keras,Sanbe,,Ya,,Tidak ada,-,19,20000,91
+05/02/2021,AMLODIPIN,Obat Keras,Lapi,,Ya,,Tidak ada,250,20,85000,246
+06/02/2021,OMEPRAZOLE,Obat Bebas,Novel ,,Ya,,Tidak ada,-,70,5000,70
+07/02/2021,OMEPRAZOLE,Obat Bebas,Novel ,,Ya,,Tidak ada,-,30,5000,40
+08/02/2021,OMEPRAZOLE,Obat Bebas,Novel ,,Ya,,Tidak ada,60,10,5000,60
+08/02/2021,AMLODIPIN,Obat Keras,Lapi,,Ya,,Tidak ada,-,5,85000,251
+09/02/2021,LAPIBAL,Obat Keras,Lapi,,Ya,,Tidak ada,-,5,35000,307
+09/02/2021,MEFINAL,Obat Keras,Sanbe,,Ya,,Tidak ada,-,30,20000,61
+10/02/2021,OMEPRAZOLE,Obat Bebas,Novel ,,Ya,,Tidak ada,30,-,5000,90
+10/02/2021,LAPIBAL,Obat Keras,Lapi,,Ya,,Tidak ada,-,20,35000,287
+10/02/2021,BUSCOPAN,Obat Keras,Sanofi,,Ya,,Tidak ada,30,-,50000,210
+11/02/2021,LAPIBAL,Obat Keras,Lapi,,Ya,,Tidak ada,-,20,35000,267
+11/02/2021,AMLODIPIN,Obat Keras,Lapi,,Ya,,Tidak ada,-,41,85000,210
+12/02/2021,MEFINAL,Obat Keras,Sanbe,,Ya,,Tidak ada,-,20,20000,41
+13/02/2021,OMEPRAZOLE,Obat Bebas,Novel ,,Ya,,Tidak ada,-,,5000,123
+13/02/2021,AMLODIPIN,Obat Keras,Lapi,,Ya,,Tidak ada,-,-,85000,460
+16/02/2021,LAPIBAL,Obat Keras,Lapi,,Ya,,Tidak ada,-,25,35000,242
+16/02/2021,MEFINAL,Obat Keras,Sanbe,,Ya,,Tidak ada,-,20,20000,25
+16/02/2021,AMLODIPIN,Obat Keras,Lapi,,Ya,,Tidak ada,-,20,85000,440
+17/02/2021,LAPIBAL,Obat Keras,Lapi,,Ya,,Tidak ada,100,10,35000,332
+17/02/2021,MEFINAL,Obat Keras,Sanbe,,Ya,,Tidak ada,100,-,20000,140
+18/02/2021,OMEPRAZOLE,Obat Bebas,Novel ,,Ya,,Tidak ada,-,8,5000,118
+18/02/2021,AMLODIPIN,Obat Keras,Lapi,,Ya,,Tidak ada,-,120,85000,320
+20/02/2021,OMEPRAZOLE,Obat Bebas,Novel ,,Ya,,Tidak ada,-,29,5000,91
+20/02/2021,LAPIBAL,Obat Keras,Lapi,,Ya,,Tidak ada,-,27,35000,305
+21/02/2021,LAPIBAL,Obat Keras,Lapi,,Ya,,Tidak ada,-,12,35000,293
+21/02/2021,AMBROXOL ,Obat Bebas,Phapros,,Tidak,,Tidak ada,-,20,5000,140
+22/02/2021,OMEPRAZOLE,Obat Bebas,Novel ,,Ya,,Tidak ada,-,30,5000,61
+23/02/2021,LAPIBAL,Obat Keras,Lapi,,Ya,,Tidak ada,-,12,35000,281
+23/02/2021,AMLODIPIN,Obat Keras,Lapi,,Ya,,Tidak ada,-,105,85000,215
+25/02/2021,OMEPRAZOLE,Obat Bebas,Novel ,,Ya,,Tidak ada,-,30,5000,31
+25/02/2021,LAPIBAL,Obat Keras,Lapi,,Ya,,Tidak ada,-,10,35000,271
+28/02/2021,AMBROXOL ,Obat Bebas,Phapros,,Tidak,,Tidak ada,-,20,5000,120
+02/03/2021,AMLODIPIN,Obat Keras,Lapi,,Ya,,Tidak ada,-,35,85000,180
